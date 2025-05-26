@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3cbff,100:b3bbff&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffea00,100:ff8a05&height=120&text=&animation=&fontColor=000000&fontSize=70" />
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Backend Engineer, Web Developer </h2>  
@@ -22,12 +22,12 @@
     </div>
 </div>
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div style="text-align: left;"> 
         <table>
             <tr>
-                <th scope="col"><img src="https://github-readme-stats.vercel.app/api?username=koyulim&bg_color=60,a3cbff,b3bbff&title_color=ffffff&text_color=ffffff" width="400" height="200"/></td>
-                <th scope="col"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koyulim&layout=compact&bg_color=60,a3cbff,b3bbff&title_color=ffffff&text_color=ffffff" width="400" height="200"/></td>
+                <th scope="col"><img src="https://github-readme-stats.vercel.app/api?username=koyulim&bg_color=60,ffdd00,ffa200&title_color=ffffff&text_color=ffffff" width="400" height="200"/></td>
+                <th scope="col"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koyulim&layout=compact&bg_color=60,ffdd00,ffa200&title_color=ffffff&text_color=ffffff" width="400" height="180"/></td>
             </tr>
             <tr>
                 <th scope="col"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kul2862" width="400" height="200"/></td>
